@@ -1,0 +1,10 @@
+1. Atom One Dark Theme
+2. GitHub Theme
+3. Tailwind CSS Intellisense
+4. React Theme
+5. poimandres
+6. Material Icon
+7. Live Server
+8. GSAP snippets
+9. Fluent Icons
+10. ES7+ React/Redux snippets
